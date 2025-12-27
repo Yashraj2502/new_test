@@ -36,3 +36,5 @@ Edit `youtube_manager.py` to customize:
 
 ## License
 MIT
+
+---
